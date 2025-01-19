@@ -1,6 +1,6 @@
-# app_resep_berbasis_ingredient
+# CariResep: A recipe finder app
 
-A new Flutter project.
+Search recipes based on the ingredient. This app is using Free Meal API (https://www.themealdb.com/api.php).
 
 ## Getting Started
 
